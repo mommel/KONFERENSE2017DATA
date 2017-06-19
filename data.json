@@ -11,6 +11,7 @@
               "timeStart": "8:00",
               "timeEnd": "9:00",
               "trackId": "3",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "tracks": [
                 "Food"
@@ -23,6 +24,7 @@
           "sessions": [
             {
               "name": "Opening Words",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "speakerNames": [
                 "Uri Nativ"
@@ -41,6 +43,7 @@
           "sessions": [
             {
               "name": "Keynote - Farley’s Laws",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "description": "We are not as smart as we think we are. Even us software developers!! What we think of as reality isn't. When we think we are being rational, we are not. When we listen to experts and trust in their wisdom, we are fooling ourselves. Meanwhile, software development is one of the more complex tasks that we mere mortals undertake. So what does it really take to overcome the limitations of our biology? How do we overcome our desire to jump to conclusions and guess at solutions? This mildly humorous, entertaining talk explores some of the fallibilities inherent in our biology and addresses what it takes to solve genuinely complex problems in the face of our propensity to make wild guesses? To put it another way, what do you need to understand to completely grasp how agile, lean development, DevOps and Continuous Delivery really work?",
               "speakerNames": [
@@ -64,6 +67,7 @@
               "timeStart": "10:10",
               "timeEnd": "10:40",
               "trackId": "6",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "tracks": [
                 "Food"
@@ -76,6 +80,7 @@
           "sessions": [
             {
               "name": "Predicting Payment Behaviour: A machine learning approach to risk",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "B3",
               "description": "It would be very expensive and also immoral to grant anyone who asks credit. It is therefore of great importance to predict customer’s future payment behaviour so that we can reject those that will not be able to pay. In this talk I will introduce you to Machine Learning and how we use it to train models that can predict if customers will pay their invoices. This will include everything from root cause analysis and data-mining to feature engineering, training and validation of machine learning models and decision policy design. I will introduce you to some specific problems we encounter in credit underwriting and how we try to solve these problems in an automated way.",
               "speakerNames": [
@@ -92,6 +97,7 @@
             },
             {
               "name": "Weekend at Bernie's",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "B12",
               "description": "We will explore the landscape of client side attacks with a pinch of user awareness. We will walk you through (even dare to demo) different attack scenarios which differ in nature but they can all eventually link up to be used in a chain. These scenarios range from semi-targeted phishing campaigns and leakage of wireless-related information to man in the middle attacks and full exploitation of workstations. We will try to make all this relevant to Klarna's environment and attack surface. This is a talk about every day hacking and exploitation techniques that are simple enough to explain to your parents but technical enough to visit stackoverflow after we are done. We will build on last year's lightning talk, but don't worry if you missed it, we will recap quite fast.",
               "speakerNames": [
@@ -106,6 +112,7 @@
             },
             {
               "name": "UI Components Workshop",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "C3",
               "description": "The purpose of the workshop is to learn how to use the UI Components. If you are interested in the UI Components but never used them, this workshop is for you. The technical requirements are minimal: basic familiarity with HTML, CSS and any programming language will do. The components are not just for official products of Klarna. They are there to make your life easier if you happen to be building interfaces. Come join us!",
               "speakerNames": [
@@ -125,6 +132,7 @@
           "sessions": [
             {
               "name": "Transition",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "B12 & B3",
               "description": "",
               "speakerNames": [
@@ -144,6 +152,7 @@
           "sessions": [
             {
               "name": "Product Management - best practices and what happened when I didn't follow them when building Digital Goods",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "B3",
               "description": "Walking through the product management process for Digital Goods, discussing basic 'by the book' product management processes - and showing how not following them resulted in a bad product.",
               "speakerNames": [
@@ -158,6 +167,7 @@
             },
             {
               "name": "Lambda and Kappa - Durable, accurate, low latency application serving layers",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "B12",
               "description": "Klarna live applications require near real time data latency as well as vast data history depth from multiple sources. Combined with requirements of horizontal application scalability and statelessness, a traditional data serving solution (e.g. centralised RDBMS) does not cut the cheese. For the past three years Klarna has implemented the Lambda Architecture serving applications with data for real time decisions. Since then, new architectural proposals has emerged in the BigData community. One upriser is the Kappa architecture. In this talk we look at Klarnas current Lambda architecture, then we look at the Kappa proposal including a case study. Finally we discuss how Kappa could replace our current Lambda architecture and what would have to change.",
               "speakerNames": [
@@ -182,6 +192,7 @@
               "timeStart": "12:15",
               "timeEnd": "13:15",
               "trackId": "13",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "tracks": [
                 "Food"
@@ -194,6 +205,7 @@
           "sessions": [
             {
               "name": "Usability Testing – Know thy users",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "B3",
               "description": "What is usability testing, why (and how practically) do we do it, and what I learned by putting Klarna Credit to the test. In this session I will introduce you to usability testing. We will have a look at the tests we did in the UK and the US prior to the launch of account with the Klarna Credit API. We will have a look at some example recordings from these sessions, and we will look into what these user tests can tell us about cultural differences (around financial products) and the dangers of assuming everything works the same everywhere.",
               "speakerNames": [
@@ -210,6 +222,7 @@
             },
             {
               "name": "PSP Integrations: The good, the bad, and the ugly",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "B12",
               "description": "In this session I'll show a glimpse into what it is to deal with the reconciliation side of Payments. We'll start with what's the payment lifecycle, and then see how each PSP communicates it to us. While at it, we will see all kinds of mishaps that we, as developers, have to deal every time we need to integrate with a new PSP or a bank. You'll get to know our 'Book of Doom', and why it got that name. Although I will talk about some of the tools that we use to do our job, this is NOT meant to be a technical talk.",
               "speakerNames": [
@@ -225,6 +238,7 @@
             },
             {
               "name": "Code Whispers",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "C3",
               "description": "Have you ever played Chinese Whispers, or maybe telephone game, or even Viskleken… =] Today you will engage in a similar experience, but with code! We'll solve a nice problem step by step together, but you never know from who's code your next step",
               "speakerNames": [
@@ -244,6 +258,7 @@
           "sessions": [
             {
               "name": "Transition",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "B12 & B3",
               "description": "",
               "speakerNames": [
@@ -263,6 +278,7 @@
           "sessions": [
             {
               "name": "SOFORT Through the Ages",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "B3",
               "description": "SOFORT started 2004 in a small town in Butzbach in Hesse. How we changed over the time, what challenges we had to become the part of the klarna group we are now.",
               "speakerNames": [
@@ -280,6 +296,7 @@
             },
             {
               "name": "The Many Ways to do DevOps: A Journey",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "B12",
               "description": "We've all heard that one should deploy small changes and deploy often. This is great but it gets harder to figure out which tools/techniques to use for a given application at hand given multiple available tools (Capistrano, Chef, Ansible, Vagrant, just shell, docker, container orchestration tools, etc) and multiple types of applications (web apps, databases, batch job apps, data pipeline apps, etc). What should be automated and what shouldn’t? This talk will be an experience-based DevOps journey story of attempting to achieve a stable and organisationally scalable delivery process. It will be an extended version of the lightning talk I did at muCon Stockholm 2015 'Scaling infrastructure work at Klarna'. In the talk I will structure the alternative approaches and principles behind the different deployment tools, what worked and what didn't work for us, where the deployment tools are heading and how can a DevOps person avoid becoming a bottleneck by sharing knowledge within the team.",
               "speakerNames": [
@@ -299,6 +316,7 @@
           "sessions": [
             {
               "name": "Transition",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "B12 & B3",
               "description": "",
               "speakerNames": [
@@ -318,6 +336,7 @@
           "sessions": [
             {
               "name": "The Wild World of Platform Integrations",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "B3",
               "description": "Klarna products are integrated in many platforms across the supported markets. The process of integrating the products is often completed by vendors outside of Klarna. This session will take a look at how these efforts are approached differently across the platforms based on platform type (open source vs. SaaS), size of merchants on the platforms, setup of the relationship with the platform and/or vendor completing the work and the numerous other factors that impact the final build of the integration. We will also explore steps being taken to improve the time and quality to market for the platforms across all Klarna markets as well as involvement of market resources throughout the process to ensure the integration meets each market's needs.",
               "speakerNames": [
@@ -333,6 +352,7 @@
             },
             {
               "name": "Decode the Magic: The SOFORT Payment-Wizard",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "B12",
               "description": "Introduction of SOFORTs 'Payment-Wizard' - the part of SOFORTs payment platform, which all customers are using while paying with SOFORT Überweisung or when using other products. Let's have a look what's 'under the trunk' of SOFORT Überweisung (including [live] demonstrations).",
               "speakerNames": [
@@ -356,6 +376,7 @@
               "name": "Fika",
               "timeStart": "14:55",
               "timeEnd": "15:25",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "trackId": "22",
               "tracks": [
@@ -369,6 +390,7 @@
           "sessions": [
             {
               "name": "Eight Years Living with Kred",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "B12",
               "description": "Kreditor started out as a factoring business specifically geared towards e-commerce. Kred, therefore, started as, and at heart still is, a factoring support system. This, along with a few other crucial business decisions, developments and accidents has shaped and continues to affect the system as it stands today. This talk will present a few of those developments, along with some of their consequences that are still visible today, in code, data structures, workflows and business procedures. This will in turn develop into a few key learnings about how Klarna got to be where it is today, what baggage it is carrying with it, what mistakes we may not want to make again, and what traits and properties of Klarna and its systems that we may want to develop, maintain and preserve.",
               "speakerNames": [
@@ -384,6 +406,7 @@
             },
             {
               "name": "Running Kafka in Production: lessons learned",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "B3",
               "description": "In this session we will talk about how Kafka clusters are currently set up in Klarna, evolution of the setup and deployment pipelines, tools we've build to support Kafka users, and lessons learned since we launched KaaS.",
               "speakerNames": [
@@ -399,6 +422,7 @@
             },
             {
               "name": "What is This RaaS Thing, Anyway?",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "C3",
               "description": "Have you ever wondered what the coding monkeys at Risk Engineering are up to? As a recent newbie at Risk Engineering I'll open up the black box that is RaaS and together we will look at the many moving parts that make up RaaS.At the end of this talk you will have retraced my steps from RaaS noob to becoming proficient enough to know whatever RaaS is all about.",
               "speakerNames": [
@@ -419,6 +443,7 @@
           "sessions": [
             {
               "name": "Transition",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "description": "",
               "speakerNames": [
@@ -438,6 +463,7 @@
           "sessions": [
             {
               "name": "How hackers destroyed Mat Honan's life in an hour",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "description": "A fascinating story about reporter Mat Honan, who fell victim to an attack by hackers who easily obtained his sensitive details.",
               "speakerNames": [
@@ -453,6 +479,7 @@
             },
             {
               "name": "What the hell is this?",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "description": "If you've ever written in Javascript - you probably noticed some weird parts in it. Does THIS cross your mind? If you’re a beginner and even if you're not - THIS is confusing! Let's figure out how it works in Javascript.",
               "speakerNames": [
@@ -468,6 +495,7 @@
             },
             {
               "name": "Agile Retro Games",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "description": "In this Talk I want to share the advantage of 'Retro Games' compared to normal retrospectives and give a humour oriented view of past retrospectives so that SCRUM Masters who haven't thought about or done them yet might think about it in the future, and tell the 'victims' of the games why they are useful.",
               "speakerNames": [
@@ -484,6 +512,7 @@
             },
             {
               "name": "Xiaowang: Data Anonymization and Generation tool",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "description": "While executing performance tests, we want to reuse production data to keep the correct data distribution. For privacy reason, we have implemented a tool which can obfuscate the data while keeping the relations and distribution between the fields as in the original production set. Using the same approach, we also test for future growth by running the same process multiple times.",
               "speakerNames": [
@@ -498,6 +527,7 @@
             },
             {
               "name": "It's the little things that make me happy",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "description": "Ruby’s original heresy was to place the happiness of the programmer on a pedestal - above many other competing and valid concerns that had driven programming languages before it. Rails took this one step further with 'The Principle of The Bigger Smile'; design with great attention paid to whatever would make developers smile more and broader. What does that even mean? Lots of examples in this fun lightning talk!",
               "speakerNames": [
@@ -513,6 +543,7 @@
             },
             {
               "name": "We've been water my friend",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "description": "This is a follow up to last years talk 'Be Water My Friend'. What has been done and how did we process after exploring new ways to pay with SOFORT on a mobile device in our hackathon. From theory to market and what have been our obstacles from a technical and a product perspective. Where are we today after a long year.",
               "speakerNames": [
@@ -528,6 +559,7 @@
             },
             {
               "name": "How I learned to speak Vulcan",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "description": "I started work at Klarna four years ago, and for the first time in my life I was surrounded by developers all day long. I found myself feeling like Captain Kirk when he first met Spock. I'll tell you a bit about working with developers from my personal perspective. I'll share the things I've learned about you, the differences between people in HR and developers, and talk about what we can do to make our work together better.",
               "speakerNames": [
@@ -542,6 +574,7 @@
             },
             {
               "name": "Common TLS security pitfalls",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "description": "How do you configure the TLS protocol securely? Have you ever wondered what the java error message sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target means? Or have you struggled with keystores and truststores and what they are? This talk will focus on how to solve these common pitfalls and how to make a common java configuration to secure your http endpoints.",
               "speakerNames": [
@@ -556,6 +589,7 @@
             },
             {
               "name": "@todo",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "description": "Have you ever refactored your dotfiles instead of preparing for tomorrow's demo? Have you caught your teammate rearranging the SCRUM board for the 3rd time this week? We software people are all too often plagued by procrastination.\r\n\r\nIn this talk I'll argue that instead of fighting one's weaker self, or more adequately said in German, one's 'innerer Schweinehund' one should start embracing the ability to procrastinate as a valuable strength. Let's all put off things together!",
               "speakerNames": [
@@ -579,6 +613,7 @@
               "timeStart": "17:05",
               "timeEnd": "19:00",
               "trackId": "35",
+              "talkPic": "assets/img/konferense-logo.png",
               "location": "All Stages",
               "tracks": [
                 "Food"
@@ -592,9 +627,10 @@
   "speakers": [
     {
       "name": "Uri Nativ",
-      "profilePic": "assets/img/speakers/u.nativ.jpg",
+      "profilePic": "assets/img/konferense-logo.png",
       "twitter": "unativ",
       "about": "Uri Nativ, VP Engineering and Site Manager of Klarna Tel Aviv. Has 18+ years working experience in various companies, from small startups to big corporates. Engineer by mind, people manager by heart. Uri has adopted Agile methodologies more than 7 years ago and had never let go since then. Uri constantly lectures about Agile, Methodologies, Culture and People in order to share and brainstorm new ideas.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Tel Aviv"
     },
     {
@@ -602,54 +638,63 @@
       "profilePic": "assets/img/speakers/d.farley.jpg",
       "twitter": "davefarley77",
       "about": "Dave Farley is a thought-leader in the field of Continuous Delivery, DevOps and Software Development in general. He is co-author of the Jolt-award winning book 'Continuous Delivery' a regular conference speaker and blogger and one of the authors of the Reactive Manifesto. He has been having fun with computers for over 30 years has worked on most types of software, from firmware, through tinkering with operating systems and device drivers, to writing games, and commercial applications of all shapes and sizes. He started working in large scale distributed systems about 25 years ago, doing research into the development of loose-coupled, message-based systems - a forerunner of MicroService architectures.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "-"
     },
     {
       "name": "Vilhelm von Ehrenheim",
       "profilePic": "assets/img/speakers/v.ehrenheim.jpg",
       "about": "Vilhelm is the Lead Data Scientist of the Predictive modeling team and has been working as a Data Scientist at the Klarna Credit Risk department since 2013. He has a MSc in Engineering physics from LTH specializing in Machine learning and is an avid programmer and open source lover. He currently lives in Stockholm with his wife and 1yr old daughter.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Stockholm"
     },
     {
       "name": "Georgios Kryparos",
       "profilePic": "assets/img/speakers/g.kryparos.jpg",
       "about": "Georgios is a farmer at heart who gave up his dreams when his grandparents told him that farming requires waking up really early in the morning. Many years later, he started as a UNIX sysadmin while studying Computer Engineering. He soon realised this is too hard when his mail server got hacked and he had to postpone sleeping for some days until the server was back online. “Life would be so much easier if I were a web developer instead”, he thought but when a senior colleague demoed an SQL injection he had introduced, he despaired and decided to join the dark side. And there he roams for the last decade…",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Stockholm"
     },
     {
       "name": "Fernando via Canel",
       "profilePic": "assets/img/speakers/f.via.canel.jpg",
       "about": "I started programming at age 9, tweaking assembler code to move pixels on the screen. I eventually passed through Visual Basic and Java. I worked for a while in an inventory management application built in Java and I thought about quitting programming; instead, I found Rails, and I since then I'm fascinated by the possibilities. I believe programming is, overall, a form of communication.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Stockholm"
     },
     {
       "name": "Tomer Alon",
       "profilePic": "assets/img/speakers/t.alon.png",
       "about": "Tomer Alon started working at the Klarna Tel Aviv office as soon as it opened in September 2011. With computer engineering background, Tomer spent a few years as a developer and a team lead, working on various products, including: merchants on-boarding website, Review GUI for risk agents and SLOT sms ticketing system for SL and Skanetrafiken. Shifting from engineering to product, Tomer has been a product manager in the On-Demand and Digital Goods area for about 2 years.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Tel Aviv"
     },
     {
       "name": "Per Ullberg",
       "profilePic": "assets/img/speakers/p.ullberg.png",
       "about": "Per Ullberg is tech lead for Klarna's data infrastructure teams Bill&Bull. The last 3.5 years these Uppsala based teams have introduced and implemented the Lambda architecture at Klarna using the Hadoop Eco system. Prior to joining Klarna, Per was a consultant of financial as well as gaming and betting industry working with both front and back end applications. Per is interested in test driven development and continuous integration and is the inventor of HiveRunner, an open source HiveQL unit testing framework.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Uppsala"
     },
     {
       "name": "Daniel Lange",
       "profilePic": "assets/img/speakers/d.lange.jpg",
       "about": "Daniel Lange (Product Manager) started working at Klarna in 2012. He started originally as an intern, turned part time job, turned full-time employee in the b2b marketing team. Eventually he became responsible for Klarna.com, which ultimately lead to developing My Klarna 2.0 with the marketing development team (now Ewoks). In 2014 he switched to the Product division where he took over the responsibilities as the Head of Product for the DACH region. End of last year (2015) he joined forces with Koen, Frank, and Per to define, prototype, and build the new Klarna Credit API. Daniel has grown up in Germany, and moved to Sweden in 2007, where he also finished his Master of Science in Industrial Engineering and Management at Luleå University of Technology.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Stockholm"
     },
     {
       "name": "Filipe Cristóvão",
       "profilePic": "assets/img/speakers/p.cristovao.jpg",
       "about": "Filipe studied Distributed Systems and Software Engineering at the Instituto Superior Técnico in Portugal. 4 years ago, he decided to go for an adventure to the other side of Europe and ended up in Sweden, working with Erlang. Interested in Distributed Systems, concurrency, the actors computational model and some sprinkles of STMs. At Klarna, he started working with Kred, in the dunning side (a word that he didn't even know existed before getting here...), then with customer communications. Later on he was for a while the sole member of the now gone Wall Street team, handling the payments integration area of the Kasper platform. On his spare time he currently is trying to learn Swedish (finally!). Previous to Klarna, he taught some classes in the University as well.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Stockholm"
     },
     {
       "name": "Thiago Rodrigues Colucci",
       "profilePic": "assets/img/speakers/t.colluci.jpg",
       "about": "Thiago is a crazy developer that learned how to code going to Coding Dojos and pairing with TDD experts. During his last 'gig' he has been through lot's of different exercises and agile practices. This time he will present Code Whispers, a game where we'll find together how hard can it be to work in 'legacy systems'.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Stockholm"
     },
     {
@@ -657,53 +702,62 @@
       "profilePic": "assets/img/speakers/c.niehoff.jpg",
       "twitter": "niehoff",
       "about": "Christian Niehoff studied Computer Sience at the University of Applied Siences in Middle Hesse. After studies he started 8.5 years before as engineer at SOFORT GmbH (former Payment Network AG) as one of the first engineers. Later he become senior and team lead, his current position at SOFORT is Engineering Manager. He started as maid-of-all-work in the startup phase and was part of the team responsible for the product development. In his free time he likes high strategic board games like Twilight Imperium, Civilisation or Twilight Struggle. He is also an ambitious badminton player and hiker.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Linden"
     },
     {
       "name": "Lilach Adir",
       "profilePic": "assets/img/speakers/l.adir.jpg",
       "about": "TBD",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Tel Aviv"
     },
     {
       "name": "Sergey Evstifeev",
       "profilePic": "assets/img/speakers/s.evstifeev.png",
       "about": "I'm working as a software engineer at Klarna for more than 5 years, having worked with Erlang, Java and Ruby. I'm developing product features but tend to also focus a lot on the infrastructure. Among the things I like are continuous delivery, Docker and immutable infrastructure. Previously I worked with mobile Java implementations at Sun Microsystems.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Stockholm"
     },
     {
       "name": "Markus Michalsky",
       "profilePic": "assets/img/speakers/m.michalsky.jpg",
       "about": "Markus is one of the newest additions to the SOFORT Frontend-Team 'Myrddin' which maintains and improves the Desktop-Web-App of the SOFORT Online Payment Service. Most of his nearly 10 years of work experience as a software developer specialized in web applications were focused on optimizing and improving internal workflows, especially under a more human-oriented point of view. Questions he asks himself every day are 'How can this be done easier?' and 'How can we make it more fun?'.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Linden"
     },
     {
       "name": "Martin Engström",
       "profilePic": "assets/img/speakers/m.engstrom.jpg",
       "about": "Martin has been dabbling in Erlang for fun since 2004, and has kept dabbling for Klarna since 2008. From the start as a junior developer in the only engineering team that existed at the time, and from then on either with dunning related development, or with the beards in the Kred Core team. He has no beard, but a student of many diverse subjects, he has an MSc in psychology from Gothenburg University, something he has found both highly useful and pretty annoying in many situations at Klarna.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Stockholm"
     },
     {
       "name": "Ivan Dyachkov",
       "profilePic": "assets/img/speakers/i.dyachkov.jpg",
       "about": "Before starting at Klarna Ivan was developing C++/MFC desktop applications for Windows, Java applications and web services, .NET applications and some Ruby on Rails web sites. Last few years he’s been working primarily with Erlang, and also recently started playing with Elixir and Go as well as doing a lot of devops.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Stockholm"
     },
     {
       "name": "Matthias Grüter",
       "profilePic": "assets/img/speakers/m.gruter.jpg",
       "about": "Matthias Grüter recently joined Klarna as a software developer with team Forseti at Risk Engineering. He has previously worked as a developer, ops guy, testing engineer and engineering manager and is constantly on the lookout for new challenges. Matthias loves programming and tinkering and when he is not hacking on software you can probably find him at a meetup somewhere in Stockholm talking about Docker and the value of immutable infrastructure.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Stockholm"
     },
     {
       "name": "Hannes Renn",
       "profilePic": "assets/img/speakers/h.renn.jpg",
       "about": "Hannes is working at SOFORT for one year now and loves agile methods. As part of the merchant team 'Das Kartell' he develops the merchant and admin CRM system and some of the banking logics. He wanted to be a part of the conference team since he attended the first one in 2015 and hopes to bring some of his 10+ years of working into the planning. In his leisure Hannes likes to read books of Terry Pratchett and Stephen King, plays mostly RPG games (and some shooters) on the computer and loves to cycle.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Linden"
     },
     {
       "name": "Melissa Thobe",
       "profilePic": "assets/img/speakers/m.thobe.jpg",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Colombus",
       "about": "I started with Klarna in December 2015 and jumped into managing the integration of the Klarna products with ecommerce platforms. I have been working with technology for over 19 years in a variety roles from programmer, managing projects and products with a heavy background in integration and data. Outside of work a majority of my time is spent running after my daughter (5yrs) and son (3yrs) and I am an avid runner."
     },
@@ -711,6 +765,7 @@
       "name": "Inbal Gilai",
       "profilePic": "assets/img/speakers/i.gilai.jpg",
       "about": "Software developer for about 10 years. I started off at the age of 18 as a developer in the Israeli army (top secret!). A few years later I started working for a start-up company in the field of online fraud detection, which was acquired by PayPal shortly after and so I worked for PayPal for a while. From there I moved from sin-city Tel Aviv to the holy-land of Jerusalem, to study Computer Science and Cognitive Science in the Hebrew University. After graduating I found my way to Klarna, where I’ve been for over 3 years, during which I had the privilege to co-found Rails Girls events in Israel. I’m very passionate about traveling around the world (just recently completed my 30-countries-before-30 challenge!), and also passionate about puzzles in general and puzzle-rooms in particular",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Tel Aviv"
     },
     {
@@ -718,6 +773,7 @@
       "profilePic": "assets/img/speakers/g.davie.jpg",
       "twitter": "repthe415",
       "about": "George is a web engineer with +15 years experience in web technologies. Before joining Sofort in 2009 he was working as a freelancer and contractor in different digital agencies in Germany, but also experienced some great periods in New York and San Francisco. Besides the daily PHP work at Sofort, George’s passion is to explore new frontend technologies and develop new products. Lately a lot of JavaScript and hybrid app development is keeping his frontend kung fu up to date.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Linden"
     },
     {
@@ -725,6 +781,7 @@
       "profilePic": "assets/img/speakers/a.lindholm.jpg",
       "twitter": "",
       "about": "Alexander Lindholm has worked at Klarna for the last one and a half years. He has a masters degree in computer science from the Royal Institute of Technology and has been working with PKI as a software developer for 5 years. Furthermore he’s been developing SSL VPN solutions and working with the PKI infrastructure at Technology Nexus and Assa Abloy.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": ""
     },
     {
@@ -732,6 +789,7 @@
       "profilePic": "assets/img/speakers/m.mordehai.png",
       "twitter": "",
       "about": "Moria joined Klarna a year ago and quickly became a passionate web developer. She believes that good code should be written for human beings. Moria has experience with GIS technologies, the gaming industry and Fintech. In 2015 she won an award in the annual GameIS contest (The Digital Games Industry Association in Israel).",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Tel Aviv"
     },
     {
@@ -739,6 +797,7 @@
       "profilePic": "assets/img/speakers/i.prince.jpg",
       "twitter": "",
       "about": "I have been with Klarna since May 2015 in my role as a team lead of the Performance Team. My earlier experience involving working for Skype, Vonage, Telefonica and several startups; touching many different technologies and disciplines. I like solving complex problems, math and physics. Outside of work I am spending most of my time with my family, I have two sons ages 2.5 and one year old so not much time left for anything else.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Stockholm"
     },
     {
@@ -746,6 +805,7 @@
       "profilePic": "assets/img/speakers/i.shub.jpg",
       "twitter": "",
       "about": "Started learning Pascal at school when she was 12 years old. After high school she moved to a University in the desert to study Information Systems Engineer, and after 4 years moved to Tel-Aviv and started working in the Intelligence corps in the Army, first as a product manager and later got back to what she really loved doing - programming. So Klarna is her first after-the-army work place - which she have been with for the last 2 years and had the opportunity to really learn frontend development. Besides work she loves diving, hiking, photographing - and doing all those things while traveling around the world.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Tel Aviv"
     },
     {
@@ -753,6 +813,7 @@
       "profilePic": "assets/img/speakers/m.tirosh.jpg",
       "twitter": "",
       "about": "Michal has been working as part of the HR team for the past 4 years and is in charge of recruiting for Klarna Tel Aviv's extraordinary gang. Passionate about understanding what drives employees and what makes them come to work with a smile on their face. Strongly believes that people, culture and diversity are the key to Klarna Tel Aviv’s magic, and works tirelessly to maintain that magic.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Tel Aviv"
     }
   ],
@@ -762,6 +823,7 @@
       "profilePic": "assets/img/speakers/e.andrell.jpg",
       "twitter": "",
       "about": "Elspeth just joined Klarna to work as Department Coordinator, organising meetings and events and making sure Engineering runs smooothly. She moved to Stockholm from the UK and spends her free time baking, spoiling her dog, and re-reading Harry Potter.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Stockholm"
     },
     {
@@ -769,6 +831,7 @@
       "profilePic": "assets/img/speakers/k.oberg.jpg",
       "twitter": "",
       "about": "Kim is originally a robotics engineer born and raised in Stockholm. She studied at KTH and also spent time abroad in both Sydney and Berlin. Her favourite tool at the moment is Docker and when she's not working you can usually find her baking (cupcakes mostly) or gaming (last played: Fallout).",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Stockholm"
     },
     {
@@ -776,6 +839,7 @@
       "profilePic": "assets/img/speakers/m.feist.jpg",
       "twitter": "",
       "about": "Matthias is working for the MEXP domain in Stockholm where he moved about one year ago from Germany. Originally having studied some weird stuff called “Media Production” he worked in a lot of different jobs and companies (e.g. as a ambulance driver, for a TV production, in a studio recording music, as a wedding photographer and as a photo retoucher in an advertising agency) before finally settling with programming. Now he enjoys life in Stockholm with a lot of fika, awesome colleagues and mostly frontend programming for the merchant portal.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Stockholm"
     },
     {
@@ -783,6 +847,7 @@
       "profilePic": "assets/img/speakers/m.braun.jpg",
       "twitter": "mommelius",
       "about": "Manuel passed 16+ years of working experience in various companies. He is Scrum Master and Developer of the A-Team (App Team) at SOFORT. Develops with pleasure software and hardware. His heart beats for podcasts, photo and sound.",
+      "talkPic": "assets/img/konferense-logo.png",
       "location": "Linden"
     }
   ],
