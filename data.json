@@ -1,17 +1,17 @@
 {
   "schedule": [
     {
-      "date": "2047-05-17",
+      "date": "2017-09-14",
       "groups": [
         {
-          "time": "8:00",
+          "time": "8:30",
           "sessions": [
             {
               "name": "Breakfast + Registration",
-              "timeStart": "8:00",
+              "timeStart": "8:30",
               "timeEnd": "9:00",
               "trackId": "3",
-              "talkPic": "assets/img/konferense-logo.png",
+              "talkPic": "assets/img/registration.jpg",
               "location": "All Stages",
               "tracks": [
                 "Food"
@@ -24,7 +24,7 @@
           "sessions": [
             {
               "name": "Opening Words",
-              "talkPic": "assets/img/konferense-logo.png",
+              "talkPic": "assets/img/openingwords.jpg",
               "location": "All Stages",
               "speakerNames": [
                 "Uri Nativ"
@@ -42,8 +42,8 @@
           "time": "09:20",
           "sessions": [
             {
-              "name": "Keynote - Farley’s Laws",
-              "talkPic": "assets/img/konferense-logo.png",
+              "name": "Keynote",
+              "talkPic": "assets/img/nopicture.jpg",
               "location": "All Stages",
               "description": "We are not as smart as we think we are. Even us software developers!! What we think of as reality isn't. When we think we are being rational, we are not. When we listen to experts and trust in their wisdom, we are fooling ourselves. Meanwhile, software development is one of the more complex tasks that we mere mortals undertake. So what does it really take to overcome the limitations of our biology? How do we overcome our desire to jump to conclusions and guess at solutions? This mildly humorous, entertaining talk explores some of the fallibilities inherent in our biology and addresses what it takes to solve genuinely complex problems in the face of our propensity to make wild guesses? To put it another way, what do you need to understand to completely grasp how agile, lean development, DevOps and Continuous Delivery really work?",
               "speakerNames": [
@@ -63,11 +63,11 @@
           "time": "10:10",
           "sessions": [
             {
-              "name": "Fika",
+              "name": "Break",
               "timeStart": "10:10",
-              "timeEnd": "10:40",
+              "timeEnd": "10:30",
               "trackId": "6",
-              "talkPic": "assets/img/konferense-logo.png",
+              "talkPic": "assets/img/break.jpg",
               "location": "All Stages",
               "tracks": [
                 "Food"
@@ -76,18 +76,18 @@
           ]
         },
         {
-          "time": "10:40",
+          "time": "10:30",
           "sessions": [
             {
               "name": "Predicting Payment Behaviour: A machine learning approach to risk",
               "talkPic": "assets/img/konferense-logo.png",
-              "location": "B3",
+              "location": "C1+C2",
               "description": "It would be very expensive and also immoral to grant anyone who asks credit. It is therefore of great importance to predict customer’s future payment behaviour so that we can reject those that will not be able to pay. In this talk I will introduce you to Machine Learning and how we use it to train models that can predict if customers will pay their invoices. This will include everything from root cause analysis and data-mining to feature engineering, training and validation of machine learning models and decision policy design. I will introduce you to some specific problems we encounter in credit underwriting and how we try to solve these problems in an automated way.",
               "speakerNames": [
                 "Vilhelm von Ehrenheim"
               ],
-              "timeStart": "10:40",
-              "timeEnd": "11:25",
+              "timeStart": "10:30",
+              "timeEnd": "11:00",
               "trackId": "7",
               "tracks": [
                 "Business",
@@ -98,13 +98,13 @@
             {
               "name": "Weekend at Bernie's",
               "talkPic": "assets/img/konferense-logo.png",
-              "location": "B12",
+              "location": "C3",
               "description": "We will explore the landscape of client side attacks with a pinch of user awareness. We will walk you through (even dare to demo) different attack scenarios which differ in nature but they can all eventually link up to be used in a chain. These scenarios range from semi-targeted phishing campaigns and leakage of wireless-related information to man in the middle attacks and full exploitation of workstations. We will try to make all this relevant to Klarna's environment and attack surface. This is a talk about every day hacking and exploitation techniques that are simple enough to explain to your parents but technical enough to visit stackoverflow after we are done. We will build on last year's lightning talk, but don't worry if you missed it, we will recap quite fast.",
               "speakerNames": [
                 "Georgios Kryparos"
               ],
-              "timeStart": "10:40",
-              "timeEnd": "11:25",
+              "timeStart": "10:30",
+              "timeEnd": "11:00",
               "trackId": "8",
               "tracks": [
                 "Security"
@@ -113,73 +113,16 @@
             {
               "name": "UI Components Workshop",
               "talkPic": "assets/img/konferense-logo.png",
-              "location": "C3",
+              "location": "C4",
               "description": "The purpose of the workshop is to learn how to use the UI Components. If you are interested in the UI Components but never used them, this workshop is for you. The technical requirements are minimal: basic familiarity with HTML, CSS and any programming language will do. The components are not just for official products of Klarna. They are there to make your life easier if you happen to be building interfaces. Come join us!",
               "speakerNames": [
                 "Fernando via Canel"
               ],
-              "timeStart": "10:40",
-              "timeEnd": "12:15",
+              "timeStart": "10:30",
+              "timeEnd": "11:00",
               "trackId": "9",
               "tracks": [
                 "Frontend"
-              ]
-            }
-          ]
-        },
-        {
-          "time": "11:25",
-          "sessions": [
-            {
-              "name": "Transition",
-              "talkPic": "assets/img/konferense-logo.png",
-              "location": "B12 & B3",
-              "description": "",
-              "speakerNames": [
-                
-              ],
-              "timeStart": "11:25",
-              "timeEnd": "11:30",
-              "trackId": "10",
-              "tracks": [
-                "Transition"
-              ]
-            }
-          ]
-        },
-        {
-          "time": "11:30",
-          "sessions": [
-            {
-              "name": "Product Management - best practices and what happened when I didn't follow them when building Digital Goods",
-              "talkPic": "assets/img/konferense-logo.png",
-              "location": "B3",
-              "description": "Walking through the product management process for Digital Goods, discussing basic 'by the book' product management processes - and showing how not following them resulted in a bad product.",
-              "speakerNames": [
-                "Tomer Alon"
-              ],
-              "timeStart": "11:30",
-              "timeEnd": "12:15",
-              "trackId": "11",
-              "tracks": [
-                "Product"
-              ]
-            },
-            {
-              "name": "Lambda and Kappa - Durable, accurate, low latency application serving layers",
-              "talkPic": "assets/img/konferense-logo.png",
-              "location": "B12",
-              "description": "Klarna live applications require near real time data latency as well as vast data history depth from multiple sources. Combined with requirements of horizontal application scalability and statelessness, a traditional data serving solution (e.g. centralised RDBMS) does not cut the cheese. For the past three years Klarna has implemented the Lambda Architecture serving applications with data for real time decisions. Since then, new architectural proposals has emerged in the BigData community. One upriser is the Kappa architecture. In this talk we look at Klarnas current Lambda architecture, then we look at the Kappa proposal including a case study. Finally we discuss how Kappa could replace our current Lambda architecture and what would have to change.",
-              "speakerNames": [
-                "Per Ullberg"
-              ],
-              "timeStart": "11:30",
-              "timeEnd": "12:15",
-              "trackId": "12",
-              "tracks": [
-                "Backend",
-                "Architecture",
-                "Data infrastructure"
               ]
             }
           ]
@@ -192,63 +135,10 @@
               "timeStart": "12:15",
               "timeEnd": "13:15",
               "trackId": "13",
-              "talkPic": "assets/img/konferense-logo.png",
+              "talkPic": "assets/img/lunch.jpg",
               "location": "All Stages",
               "tracks": [
                 "Food"
-              ]
-            }
-          ]
-        },
-        {
-          "time": "13:15",
-          "sessions": [
-            {
-              "name": "Usability Testing – Know thy users",
-              "talkPic": "assets/img/konferense-logo.png",
-              "location": "B3",
-              "description": "What is usability testing, why (and how practically) do we do it, and what I learned by putting Klarna Credit to the test. In this session I will introduce you to usability testing. We will have a look at the tests we did in the UK and the US prior to the launch of account with the Klarna Credit API. We will have a look at some example recordings from these sessions, and we will look into what these user tests can tell us about cultural differences (around financial products) and the dangers of assuming everything works the same everywhere.",
-              "speakerNames": [
-                "Daniel Lange"
-              ],
-              "timeStart": "13:15",
-              "timeEnd": "13:45",
-              "trackId": "14",
-              "tracks": [
-                "Product",
-                "Frontend",
-                "Peopleware"
-              ]
-            },
-            {
-              "name": "PSP Integrations: The good, the bad, and the ugly",
-              "talkPic": "assets/img/konferense-logo.png",
-              "location": "B12",
-              "description": "In this session I'll show a glimpse into what it is to deal with the reconciliation side of Payments. We'll start with what's the payment lifecycle, and then see how each PSP communicates it to us. While at it, we will see all kinds of mishaps that we, as developers, have to deal every time we need to integrate with a new PSP or a bank. You'll get to know our 'Book of Doom', and why it got that name. Although I will talk about some of the tools that we use to do our job, this is NOT meant to be a technical talk.",
-              "speakerNames": [
-                "Filipe Cristóvão"
-              ],
-              "timeStart": "13:15",
-              "timeEnd": "13:45",
-              "trackId": "15",
-              "tracks": [
-                "Backend",
-                "Domain introductions"
-              ]
-            },
-            {
-              "name": "Code Whispers",
-              "talkPic": "assets/img/konferense-logo.png",
-              "location": "C3",
-              "description": "Have you ever played Chinese Whispers, or maybe telephone game, or even Viskleken… =] Today you will engage in a similar experience, but with code! We'll solve a nice problem step by step together, but you never know from who's code your next step",
-              "speakerNames": [
-                "Thiago Rodrigues Colucci"
-              ],
-              "timeStart": "13:15",
-              "timeEnd": "15:25",
-              "trackId": "16",
-              "tracks": [
-                "Backend"
               ]
             }
           ]
@@ -258,11 +148,11 @@
           "sessions": [
             {
               "name": "Transition",
-              "talkPic": "assets/img/konferense-logo.png",
+              "talkPic": "assets/img/transition.jpg",
               "location": "B12 & B3",
               "description": "",
               "speakerNames": [
-                
+
               ],
               "timeStart": "13:45",
               "timeEnd": "13:50",
@@ -274,109 +164,13 @@
           ]
         },
         {
-          "time": "13:50",
-          "sessions": [
-            {
-              "name": "SOFORT Through the Ages",
-              "talkPic": "assets/img/konferense-logo.png",
-              "location": "B3",
-              "description": "SOFORT started 2004 in a small town in Butzbach in Hesse. How we changed over the time, what challenges we had to become the part of the klarna group we are now.",
-              "speakerNames": [
-                "Christian Niehoff"
-              ],
-              "timeStart": "13:50",
-              "timeEnd": "14:20",
-              "trackId": "18",
-              "tracks": [
-                "History",
-                "Culture",
-                "Sofort",
-                "Peopleware"
-              ]
-            },
-            {
-              "name": "The Many Ways to do DevOps: A Journey",
-              "talkPic": "assets/img/konferense-logo.png",
-              "location": "B12",
-              "description": "We've all heard that one should deploy small changes and deploy often. This is great but it gets harder to figure out which tools/techniques to use for a given application at hand given multiple available tools (Capistrano, Chef, Ansible, Vagrant, just shell, docker, container orchestration tools, etc) and multiple types of applications (web apps, databases, batch job apps, data pipeline apps, etc). What should be automated and what shouldn’t? This talk will be an experience-based DevOps journey story of attempting to achieve a stable and organisationally scalable delivery process. It will be an extended version of the lightning talk I did at muCon Stockholm 2015 'Scaling infrastructure work at Klarna'. In the talk I will structure the alternative approaches and principles behind the different deployment tools, what worked and what didn't work for us, where the deployment tools are heading and how can a DevOps person avoid becoming a bottleneck by sharing knowledge within the team.",
-              "speakerNames": [
-                "Sergey Evstifeev"
-              ],
-              "timeStart": "13:50",
-              "timeEnd": "14:20",
-              "trackId": "19",
-              "tracks": [
-                "DevOps"
-              ]
-            }
-          ]
-        },
-        {
-          "time": "14:20",
-          "sessions": [
-            {
-              "name": "Transition",
-              "talkPic": "assets/img/konferense-logo.png",
-              "location": "B12 & B3",
-              "description": "",
-              "speakerNames": [
-                
-              ],
-              "timeStart": "14:20",
-              "timeEnd": "14:25",
-              "trackId": "20",
-              "tracks": [
-                "Transition"
-              ]
-            }
-          ]
-        },
-        {
-          "time": "14:25",
-          "sessions": [
-            {
-              "name": "The Wild World of Platform Integrations",
-              "talkPic": "assets/img/konferense-logo.png",
-              "location": "B3",
-              "description": "Klarna products are integrated in many platforms across the supported markets. The process of integrating the products is often completed by vendors outside of Klarna. This session will take a look at how these efforts are approached differently across the platforms based on platform type (open source vs. SaaS), size of merchants on the platforms, setup of the relationship with the platform and/or vendor completing the work and the numerous other factors that impact the final build of the integration. We will also explore steps being taken to improve the time and quality to market for the platforms across all Klarna markets as well as involvement of market resources throughout the process to ensure the integration meets each market's needs.",
-              "speakerNames": [
-                "Melissa Thobe"
-              ],
-              "timeStart": "14:25",
-              "timeEnd": "14:55",
-              "trackId": "21",
-              "tracks": [
-                "Business",
-                "Product"
-              ]
-            },
-            {
-              "name": "Decode the Magic: The SOFORT Payment-Wizard",
-              "talkPic": "assets/img/konferense-logo.png",
-              "location": "B12",
-              "description": "Introduction of SOFORTs 'Payment-Wizard' - the part of SOFORTs payment platform, which all customers are using while paying with SOFORT Überweisung or when using other products. Let's have a look what's 'under the trunk' of SOFORT Überweisung (including [live] demonstrations).",
-              "speakerNames": [
-                "Markus Michalsky"
-              ],
-              "timeStart": "14:25",
-              "timeEnd": "14:55",
-              "trackId": "21",
-              "tracks": [
-                "Sofort",
-                "Frontend",
-                "Backend"
-              ]
-            }
-          ]
-        },
-        {
           "time": "14:55",
           "sessions": [
             {
               "name": "Fika",
               "timeStart": "14:55",
               "timeEnd": "15:25",
-              "talkPic": "assets/img/konferense-logo.png",
+              "talkPic": "assets/img/fika.jpg",
               "location": "All Stages",
               "trackId": "22",
               "tracks": [
@@ -386,68 +180,15 @@
           ]
         },
         {
-          "time": "15:25",
-          "sessions": [
-            {
-              "name": "Eight Years Living with Kred",
-              "talkPic": "assets/img/konferense-logo.png",
-              "location": "B12",
-              "description": "Kreditor started out as a factoring business specifically geared towards e-commerce. Kred, therefore, started as, and at heart still is, a factoring support system. This, along with a few other crucial business decisions, developments and accidents has shaped and continues to affect the system as it stands today. This talk will present a few of those developments, along with some of their consequences that are still visible today, in code, data structures, workflows and business procedures. This will in turn develop into a few key learnings about how Klarna got to be where it is today, what baggage it is carrying with it, what mistakes we may not want to make again, and what traits and properties of Klarna and its systems that we may want to develop, maintain and preserve.",
-              "speakerNames": [
-                "Martin Engström"
-              ],
-              "timeStart": "15:25",
-              "timeEnd": "16:05",
-              "trackId": "23",
-              "tracks": [
-                "History",
-                "Domain introductions"
-              ]
-            },
-            {
-              "name": "Running Kafka in Production: lessons learned",
-              "talkPic": "assets/img/konferense-logo.png",
-              "location": "B3",
-              "description": "In this session we will talk about how Kafka clusters are currently set up in Klarna, evolution of the setup and deployment pipelines, tools we've build to support Kafka users, and lessons learned since we launched KaaS.",
-              "speakerNames": [
-                "Ivan Dyachkov"
-              ],
-              "timeStart": "15:25",
-              "timeEnd": "16:05",
-              "trackId": "24",
-              "tracks": [
-                "Data infrastructure",
-                "DevOps"
-              ]
-            },
-            {
-              "name": "What is This RaaS Thing, Anyway?",
-              "talkPic": "assets/img/konferense-logo.png",
-              "location": "C3",
-              "description": "Have you ever wondered what the coding monkeys at Risk Engineering are up to? As a recent newbie at Risk Engineering I'll open up the black box that is RaaS and together we will look at the many moving parts that make up RaaS.At the end of this talk you will have retraced my steps from RaaS noob to becoming proficient enough to know whatever RaaS is all about.",
-              "speakerNames": [
-                "Matthias Grüter"
-              ],
-              "timeStart": "15:25",
-              "timeEnd": "16:05",
-              "trackId": "25",
-              "tracks": [
-                "Risk",
-                "Domain introductions"
-              ]
-            }
-          ]
-        },
-        {
           "time": "16:05",
           "sessions": [
             {
               "name": "Transition",
-              "talkPic": "assets/img/konferense-logo.png",
+              "talkPic": "assets/img/transition.jpg",
               "location": "All Stages",
               "description": "",
               "speakerNames": [
-                
+
               ],
               "timeStart": "16:05",
               "timeEnd": "16:10",
